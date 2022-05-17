@@ -1,7 +1,0 @@
-http://192.168.1.145:105/query-example?language=Python
-http://192.168.1.145:105/query-example?language=English
-http://127.0.0.1:105/query-example?language=English
-
-http://127.0.0.1:105/integer-example?integer1=10
-
-http://127.0.0.1:105/multiply?integer1=10&integer2=10
